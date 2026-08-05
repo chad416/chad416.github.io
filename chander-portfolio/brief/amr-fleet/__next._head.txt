@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[97367,["/chander-portfolio/_next/static/chunks/158myu8e_yme3.js"],"ViewportBoundary"]
+3:I[97367,["/chander-portfolio/_next/static/chunks/158myu8e_yme3.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[27201,["/chander-portfolio/_next/static/chunks/158myu8e_yme3.js"],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"AMR and Fleet Integration Stack | Chander Vinayak Sharma"}],["$","meta","1",{"name":"description","content":"A simulation-first autonomous mobile robot and fleet stack modeling fulfillment missions as one observable operating system."}],["$","link","2",{"rel":"icon","href":"/chander-portfolio/icon.svg?icon.0dpcyqkmdi800.svg","sizes":"any","type":"image/svg+xml"}],["$","$L5","3",{}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"uqc1agG-y_qn7TVQgQm7L"}
